@@ -3,9 +3,6 @@
       <b>Hello!</b> I'm <a href="https://discord.com/users/785207024388407347">@dyamuh_.</a>. I'm a
       very unprofessional GitHub user who likes to play around (and tinker) with enrolled and managed chromebooks and networks and proxying.
     </p>
-    <p align="center">
-      Below is a list of repositories that I am very happy about.
-        <br>
 
   <hr>
    <!-- <h3 align="center"><a href="https://github.com/NotDarkn/website"> ‎  ‎  ‎ NotDyamuh's Website</a></li></h3> 
