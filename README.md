@@ -26,8 +26,8 @@
     <h3 align="center">
       <a href="https://github.com/NotDarkn"> ‎  ‎  ‎ Contacts</a>
     </h3> 
-  <p align="center"> -->
-     
+  <p align="center">
+     <p></p>
     </p>
     <p align="center">
       <a href="https://discord.com/users/785207024388407347">
