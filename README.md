@@ -27,7 +27,7 @@
       <a href="https://github.com/NotDarkn"> ‎  ‎  ‎ Contacts</a>
     </h3> 
   <p align="center"> -->
-        <i>Click on the images for URL Redirects!</i>
+     
     </p>
     <p align="center">
       <a href="https://discord.com/users/785207024388407347">
